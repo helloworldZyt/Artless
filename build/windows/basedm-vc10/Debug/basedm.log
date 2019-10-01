@@ -1,0 +1,36 @@
+﻿生成启动时间为 2019/10/2 2:32:40。
+     1>项目“E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\basedm.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\basedm.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\..\..\..\src" /I"E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\..\..\..\utils" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\basedm.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt basedmDlg.cpp
+         basedmDlg.cpp
+     1>e:\workcopy\basedm-git\artless\utils\ipconnutil.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\..\0_bin\Debug\basedm.exe" /INCREMENTAL /NOLOGO ws2_32.lib winmm.lib /MANIFEST /ManifestFile:"Debug\basedm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\workcopy\basedm-git\Artless\build\windows\0_bin\Debug\basedm.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\..\0_bin\Debug\basedm.lib" /MACHINE:X86 Debug\basedm.res
+         Debug\basedm.exe.embed.manifest.res
+         Debug\utilmanage.obj
+         Debug\AddrChangeAwareness.obj
+         Debug\IPConnUtil.obj
+         Debug\basedm.obj
+         Debug\basedmDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\basedm.exe.embed.manifest" /manifest Debug\basedm.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         basedm.vcxproj -> E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\..\0_bin\Debug\basedm.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\basedm.unsuccessfulbuild”。
+         正在对“Debug\basedm.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\workcopy\basedm-git\Artless\build\windows\basedm-vc10\basedm.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09
