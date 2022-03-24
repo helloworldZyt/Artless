@@ -1,2 +1,2 @@
 # Artless
-clumsy; inferior; artless; poorless;elementary;
+clumsy; inferior; artless; poorless; elementary;
